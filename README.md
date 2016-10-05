@@ -9,7 +9,8 @@
  </h3>
 # Screenshots Program
  ![Screenshot 1](https://docs.google.com/uc?id=0B09XALl5Qufvdms3RjRPWi1MSmc)
- ![Screenshot 2](https://docs.google.com/uc?id=0B09XALl5QufvQ0N5RW9zTzZWanc)
- ![Screenshot 3](https://docs.google.com/uc?id=0B09XALl5QufvRFRhUXg4VHN6aE0)
+ ![Screenshot 2](https://docs.google.com/uc?id=0B09XALl5QufvQjZqLTNwV1ZtdFU)
+ ![Screenshot 3](https://docs.google.com/uc?id=0B09XALl5QufvZEh0N0d1MEVUQUk)
+ ![Screenshot 4](https://docs.google.com/uc?id=0B09XALl5QufvbkdIYjNDWlM0blk)
 # Link Aplikasi
  https://docs.google.com/uc?id=0B09XALl5Qufvbk1XR1NlWDhhT1E
