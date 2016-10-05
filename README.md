@@ -12,4 +12,4 @@
  ![Screenshot 2](https://docs.google.com/uc?id=0B09XALl5QufvQ0N5RW9zTzZWanc)
  ![Screenshot 3](https://docs.google.com/uc?id=0B09XALl5QufvRFRhUXg4VHN6aE0)
 # Link Aplikasi
- https://docs.google.com/uc?id=0B09XALl5QufvUTA0OFhmVmZDUGc
+ https://docs.google.com/uc?id=0B09XALl5Qufvbk1XR1NlWDhhT1E
